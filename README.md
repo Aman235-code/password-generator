@@ -17,7 +17,7 @@ A sleek, responsive password generator built with **React**, **Vite**, and **Tai
 ## 🚀 Live Demo
 
 👉 [View it on Vercel](https://your-project.vercel.app)  
-_(Update with your deployed URL)_
+[_(Update with your deployed URL)_](https://password-generator-rho-green.vercel.app/)
 
 ---
 
